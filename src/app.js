@@ -5,7 +5,7 @@ import { PORT, VIEWS_PATH } from "./consts.js";
 import * as PageController from "./controllers/PageController.js";
 import * as API_InterestController from "./controllers/api/InterestController.js";
 import * as API_UserController from "./controllers/api/UserController.js";
-import helpers from "./utils/TemplateHelpers.js";
+import helpers from "./lib/TemplateHelpers.js";
 
 // ---------------------- App configuration ----------------------
 
